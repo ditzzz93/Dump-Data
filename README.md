@@ -18,3 +18,8 @@ ini buat order
 ```
 ORDER+BY+1
 ```
+iya ini buat yg nanya dork buat nyari web rentan dengan mudah
+```
+https://pastebin.com/6bf3SQru
+```
+# Raditzz
